@@ -1,0 +1,14 @@
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\01.VowelsCount\obj\Debug\net8.0\01.VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\01.VowelsCount\obj\Debug\net8.0\01.VowelsCount.AssemblyInfoInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\01.VowelsCount\obj\Debug\net8.0\01.VowelsCount.AssemblyInfo.cs
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\01.VowelsCount\obj\Debug\net8.0\01.VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\01.VowelsCount\bin\Debug\net8.0\01.VowelsCount.exe
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\01.VowelsCount\bin\Debug\net8.0\01.VowelsCount.deps.json
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\01.VowelsCount\bin\Debug\net8.0\01.VowelsCount.runtimeconfig.json
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\01.VowelsCount\bin\Debug\net8.0\01.VowelsCount.dll
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\01.VowelsCount\bin\Debug\net8.0\01.VowelsCount.pdb
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\01.VowelsCount\obj\Debug\net8.0\01.VowelsCount.dll
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\01.VowelsCount\obj\Debug\net8.0\refint\01.VowelsCount.dll
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\01.VowelsCount\obj\Debug\net8.0\01.VowelsCount.pdb
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\01.VowelsCount\obj\Debug\net8.0\01.VowelsCount.genruntimeconfig.cache
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\01.VowelsCount\obj\Debug\net8.0\ref\01.VowelsCount.dll

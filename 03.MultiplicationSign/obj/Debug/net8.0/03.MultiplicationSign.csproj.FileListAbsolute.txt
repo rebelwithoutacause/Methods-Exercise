@@ -1,0 +1,14 @@
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\03.MultiplicationSign\bin\Debug\net8.0\03.MultiplicationSign.exe
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\03.MultiplicationSign\bin\Debug\net8.0\03.MultiplicationSign.deps.json
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\03.MultiplicationSign\bin\Debug\net8.0\03.MultiplicationSign.runtimeconfig.json
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\03.MultiplicationSign\bin\Debug\net8.0\03.MultiplicationSign.dll
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\03.MultiplicationSign\bin\Debug\net8.0\03.MultiplicationSign.pdb
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\03.MultiplicationSign\obj\Debug\net8.0\03.MultiplicationSign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\03.MultiplicationSign\obj\Debug\net8.0\03.MultiplicationSign.AssemblyInfoInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\03.MultiplicationSign\obj\Debug\net8.0\03.MultiplicationSign.AssemblyInfo.cs
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\03.MultiplicationSign\obj\Debug\net8.0\03.MultiplicationSign.csproj.CoreCompileInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\03.MultiplicationSign\obj\Debug\net8.0\03.MultiplicationSign.dll
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\03.MultiplicationSign\obj\Debug\net8.0\refint\03.MultiplicationSign.dll
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\03.MultiplicationSign\obj\Debug\net8.0\03.MultiplicationSign.pdb
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\03.MultiplicationSign\obj\Debug\net8.0\03.MultiplicationSign.genruntimeconfig.cache
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\03.MultiplicationSign\obj\Debug\net8.0\ref\03.MultiplicationSign.dll

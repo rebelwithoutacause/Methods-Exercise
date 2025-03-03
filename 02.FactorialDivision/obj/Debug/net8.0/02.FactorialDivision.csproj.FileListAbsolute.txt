@@ -1,0 +1,14 @@
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\02.FactorialDivision\bin\Debug\net8.0\02.FactorialDivision.exe
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\02.FactorialDivision\bin\Debug\net8.0\02.FactorialDivision.deps.json
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\02.FactorialDivision\bin\Debug\net8.0\02.FactorialDivision.runtimeconfig.json
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\02.FactorialDivision\bin\Debug\net8.0\02.FactorialDivision.dll
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\02.FactorialDivision\bin\Debug\net8.0\02.FactorialDivision.pdb
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\02.FactorialDivision\obj\Debug\net8.0\02.FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\02.FactorialDivision\obj\Debug\net8.0\02.FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\02.FactorialDivision\obj\Debug\net8.0\02.FactorialDivision.AssemblyInfo.cs
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\02.FactorialDivision\obj\Debug\net8.0\02.FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\02.FactorialDivision\obj\Debug\net8.0\02.FactorialDivision.dll
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\02.FactorialDivision\obj\Debug\net8.0\refint\02.FactorialDivision.dll
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\02.FactorialDivision\obj\Debug\net8.0\02.FactorialDivision.pdb
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\02.FactorialDivision\obj\Debug\net8.0\02.FactorialDivision.genruntimeconfig.cache
+C:\Users\rebel\Desktop\QA Exercises\ExerciseMethods\ExarciseMethodsLab\02.FactorialDivision\obj\Debug\net8.0\ref\02.FactorialDivision.dll
